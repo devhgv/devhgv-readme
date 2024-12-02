@@ -1,3 +1,3 @@
 ### Léo Dev - Portoreal
 
-![Léo Mendes - GitHub status](https://github.com/devhgv)
+![Léo Mendes - GitHub Profile](https://github.com/devhgv)
